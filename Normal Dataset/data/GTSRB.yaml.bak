@@ -1,6 +1,6 @@
-train: /images/train/
-val: /images/val
-test: /images/test/
+train: ../YOLOv5-GTSRB-/Normal Dataset/images/train/
+val: ../YOLOv5-GTSRB-/Normal Dataset/images/val
+test: ../YOLOv5-GTSRB-/Normal Dataset/images/test/
 
 # number of classes
 nc: 43
